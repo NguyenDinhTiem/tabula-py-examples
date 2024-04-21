@@ -1,0 +1,3 @@
+#Python>=3.8
+#Java 8+
+tabula-py
